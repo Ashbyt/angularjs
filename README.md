@@ -1,2 +1,2 @@
 # angularjs
-AngularJs repository
+Ashley Bythell AngularJs repository
