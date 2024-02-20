@@ -1,5 +1,5 @@
 # angularjs
-Ashley Bythell repository
+Ashley Bythell AngularJs repository
 
 
 
