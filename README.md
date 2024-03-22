@@ -7,6 +7,7 @@ https://medium.com/formcept/angular-101-a-technical-guide-to-basic-ui-design-wit
 https://www.youtube.com/watch?v=_-CD_5YhJTA
 https://angular.dev/
 https://angular.io/
+https://eliasdouglas.medium.com/building-your-first-angular-app-and-deploying-to-google-cloud-app-engine-657671b5c584
 
 
 
